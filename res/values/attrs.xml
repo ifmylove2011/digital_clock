@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DigitalClockView">
+        <attr name="date_format" format="string|reference"/>
+        <attr name="time_format" format="string|reference"/>
+        <attr name="date_text_size" format="dimension|reference"/>
+        <attr name="time_text_size" format="dimension|reference"/>
+        <attr name="date_text_color" format="color|reference"/>
+        <attr name="time_text_color" format="color|reference"/>
+    </declare-styleable>
+
+</resources>
